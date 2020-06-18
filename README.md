@@ -13,6 +13,9 @@ Integrantes: Matías, Tomás, Jesús, Juan, Sebastián
 ### Aplicación Móvil
 <https://github.com/grupo1control/ControlTareasMobileFlutter>
 
+### CI/CD Jenkins
+http://34.95.129.4:8080/login
+
 ### Aplicación de Escritorio
 
 
