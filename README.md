@@ -16,6 +16,9 @@ Integrantes: Matías, Tomás, Jesús, Juan, Sebastián
 ### CI/CD Jenkins
 <http://34.95.129.4:8080/login>
 
+### SonarQube
+<http://34.95.129.4:9000/>
+
 ### Aplicación de Escritorio
 
 
