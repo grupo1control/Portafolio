@@ -13,7 +13,7 @@ https://github.com/grupo1control/Controltareas
 <https://github.com/grupo1control/ControlTareas-Front>
 
 ### Aplicación Móvil
-<https://github.com/grupo1control/ControlTareasMobileFlutter>
+<https://github.com/grupo1control/controlTareaFlutter>
 
 ### Carga Masiva
 <https://github.com/grupo1control/CargaMasiva>
