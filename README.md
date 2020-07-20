@@ -2,12 +2,13 @@
 
 PFT8461
 
-Integrantes: Matías, Tomás, Jesús, Juan, Sebastián
+Integrantes: Matías Giorgieff, Tomás Rosales, Jesús Murga, Juan Concha, Sebastián Velasquez
 
 ### API
+https://github.com/grupo1control/Controltareas
 <http://3.128.29.238:8000/swagger-ui.html>
 
-### Aplicación de Satelite (FRONt)
+### Aplicación Satelite (FRONT)
 <https://github.com/grupo1control/ControlTareas-Front>
 
 ### Aplicación Móvil
